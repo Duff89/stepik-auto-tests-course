@@ -1,3 +1,1 @@
-# stepik-auto-tests-course
-lesson
-fuck bla
+то просто текст
